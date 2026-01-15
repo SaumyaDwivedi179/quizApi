@@ -1,0 +1,165 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of France?",
+      "correct_answer": "Paris",
+      "incorrect_answers": ["London", "Rome", "Berlin"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does CPU stand for?",
+      "correct_answer": "Central Processing Unit",
+      "incorrect_answers": ["Central Process Unit", "Computer Personal Unit", "Central Processor Unit"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In computing, what does RAM stand for?",
+      "correct_answer": "Random Access Memory",
+      "incorrect_answers": ["Readily Available Memory", "Run Access Memory", "Random Actual Memory"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": ["Venus", "Jupiter", "Saturn"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does GPU stand for?",
+      "correct_answer": "Graphics Processing Unit",
+      "incorrect_answers": ["Graphical Performance Unit", "General Processing Unit", "Graphical Processor Utility"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which band released the album 'Abbey Road'?",
+      "correct_answer": "The Beatles",
+      "incorrect_answers": ["Pink Floyd", "The Rolling Stones", "Led Zeppelin"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the chemical symbol for water?",
+      "correct_answer": "H2O",
+      "incorrect_answers": ["O2", "CO2", "HO"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "correct_answer": "Brazil",
+      "incorrect_answers": ["China", "UK", "Russia"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Mount Everest is located in which mountain range?",
+      "correct_answer": "Himalayas",
+      "incorrect_answers": ["Andes", "Rockies", "Alps"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who played the character of Jack in Titanic?",
+      "correct_answer": "Leonardo DiCaprio",
+      "incorrect_answers": ["Brad Pitt", "Tom Cruise", "Matt Damon"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the first President of the United States?",
+      "correct_answer": "George Washington",
+      "incorrect_answers": ["John Adams", "Thomas Jefferson", "Benjamin Franklin"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which programming language is primarily used for statistical computing?",
+      "correct_answer": "R",
+      "incorrect_answers": ["Python", "C++", "Java"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What gas do plants absorb from the atmosphere?",
+      "correct_answer": "Carbon Dioxide",
+      "incorrect_answers": ["Oxygen", "Nitrogen", "Helium"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many players are there in a football (soccer) team on the field?",
+      "correct_answer": "11",
+      "incorrect_answers": ["10", "12", "9"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the 'HTML' acronym stand for?",
+      "correct_answer": "HyperText Markup Language",
+      "incorrect_answers": ["Hyperlinks and Text Markup Language", "Home Tool Markup Language", "Hyperlinking Text Manual Language"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which is the largest ocean on Earth?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the powerhouse of the cell?",
+      "correct_answer": "Mitochondria",
+      "incorrect_answers": ["Nucleus", "Ribosome", "Chloroplast"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is known as the 'King of Pop'?",
+      "correct_answer": "Michael Jackson",
+      "incorrect_answers": ["Elvis Presley", "Prince", "Freddie Mercury"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country has the largest population?",
+      "correct_answer": "China",
+      "incorrect_answers": ["India", "USA", "Russia"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who directed the movie 'Inception'?",
+      "correct_answer": "Christopher Nolan",
+      "incorrect_answers": ["Steven Spielberg", "James Cameron", "Martin Scorsese"]
+    }
+  ]
+}
